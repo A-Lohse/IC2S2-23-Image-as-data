@@ -8,3 +8,6 @@ All materials are available here. Feel free to reuse, alter, distribute etc. wit
 
 The tutorial is meant to be compleated in 3-4 hours, in a "flipped classroom" style, meaning students go through the notebook themselves, reading the material, whaching the videos and completing the excercises - with help from instructors. A notebook with solutions is also availbe. 
 
+The material has been developed by 
+August Lohse, Center for Social Data Science, University of Copenhagen
+Simon Polichinel von der Maase, The Peace Research Institute Olso (PRIO)
