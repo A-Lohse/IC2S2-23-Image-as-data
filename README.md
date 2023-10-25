@@ -1,8 +1,12 @@
 # IC2S2-23-Image-as-data
 Repo for the Image as data tutorial at the IC2S2 23 conference. 
 
-The material covers the full pipeline of how to use images as data - from setting up an envrionvent and installing packages to creating deep learning models. The material is created in python, using primarely Pytorch. The materials consists of jupyter notebooks, with links to readings and intructional videos. 
+The material covers the full pipeline of how to use images as data - from setting up an envrionvent and installing packages to creating deep learning models. The material is created in python, using primarely Pytorch. The materials consists of jupyter notebooks, with links to readings and instructional videos. 
 
+Material on Colab:
+https://colab.research.google.com/drive/1WS9cJmRuME6Z2o_rIK06rWQYZd2XkpX0#scrollTo=ZV5kg9hVIr_U
+
+https://colab.research.google.com/drive/1LEiz3C2NUoXVYnLwnA-YbnXgHQPhe9zR#scrollTo=ZV5kg9hVIr_U (solution)
 
 All materials are available here. Feel free to reuse, alter, distribute etc. with proper atribution. 
 
