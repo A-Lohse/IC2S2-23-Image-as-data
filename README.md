@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1WS9cJmRuME6Z2o_rIK06rWQYZd2XkpX0#scroll
 
 https://colab.research.google.com/drive/1LEiz3C2NUoXVYnLwnA-YbnXgHQPhe9zR#scrollTo=ZV5kg9hVIr_U (solution)
 
-All materials are available here. Feel free to reuse, alter, distribute etc. with proper atribution. 
+All materials are also available here, but have not been tested locally so you may need to adapt. Feel free to reuse, alter, distribute etc. with proper atribution. 
 
 The tutorial is meant to be compleated in 3-4 hours, in a "flipped classroom" style, meaning students go through the notebook themselves, reading the material, whaching the videos and completing the excercises - with help from instructors. A notebook with solutions is also availbe. 
 
